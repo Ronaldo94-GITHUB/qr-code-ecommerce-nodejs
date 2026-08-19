@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-ecommerce-nodejs",
+  "version": "1.0.0",
+  "description": "Gerador de QR Codes personalizado para e-commerces utilizando Node.js diretamente no terminal.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "qrcode",
+    "ecommerce",
+    "cli",
+    "terminal"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
