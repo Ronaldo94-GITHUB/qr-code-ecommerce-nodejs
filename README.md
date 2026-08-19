@@ -337,6 +337,7 @@ TERMINAL_INTERFACE=READY
 Desenvolvido por:
 
 **Ronaldo Augusto Sabino**
+
 **Rogério Augusto Sabino**
 
 ---
